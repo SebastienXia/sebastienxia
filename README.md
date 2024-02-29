@@ -4,6 +4,10 @@ Hi, let me introduce myself, **Sébastien Xia**, a high school student and passi
 
 Currently, I am deepening my knowledge of the Python programming language and in addition I am learning the compiled language C because I liked donut rotating <a href = "https://www.a1k0n.net/2011/07/20/donut-math.html">donut rotating in C</a>
 
+### 📚 Books read related to computers:
+
+`Apprendre à programmer avec python 3 by Gérard Swinnen`
+
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
