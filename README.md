@@ -1,4 +1,4 @@
-# About me 👋
+# `print("Hello World!" 👋)`
 
 Hi, let me introduce myself, **Sébastien Xia**, a high school student and passionate developer and who loves *solving problems* in Python, all this on <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height = "13"/>  Visual Studio Code.<hr/>
 
