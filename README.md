@@ -18,5 +18,3 @@ Currently, I am deepening my knowledge of the Python programming language and in
 <hr/>
 
 To find out more, do not hesitate to **visit my portfolio** <a href ="https://sebastienxia.me/"> here</a>
-
-See you !
