@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 # `print("Hello World!" 👋)`
 
 Hi, let me introduce myself, **Sébastien Xia**, a high school student and passionate developer and who loves *solving problems* in Python, all this on <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" height = "13"/>  Visual Studio Code.<hr/>
