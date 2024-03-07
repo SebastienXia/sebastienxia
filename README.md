@@ -8,7 +8,8 @@ Currently, I am deepening my knowledge of the Python programming language and in
 
 ### 📚 Books read related to computers:
 
-`Apprendre à programmer avec python 3 by Gérard Swinnen`
+- [x] Apprendre à programmer avec python 3 by Gérard Swinnen
+- [ ] 
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
