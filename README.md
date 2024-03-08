@@ -6,6 +6,8 @@ Hi, let me introduce myself, **Sébastien Xia**, a high school student and passi
 
 Currently, I am deepening my knowledge of the Python programming language and in addition I am learning the compiled language C because I liked donut rotating <a href = "https://www.a1k0n.net/2011/07/20/donut-math.html">donut rotating in C</a>
 
+![MYOCTOCAT](./my_octocat.png)
+
 ### 📚 Books read related to computers:
 
 - [x] <a href = "https://www.google.com/search?gs_ssp=eJzj4tVP1zc0TMsqrkwxLTAxYPRSTiwoKErNSylKVTi8QKGgKD-9KDE3N7VIIbEsNVmhoLIkIz8PANo9Evc&q=apprendre+%C3%A0+programmer+avec+python&rlz=1C1CHBF_frFR910FR910&oq=apprendre+%C3%A0+programm&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyBwgAEAAYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBggDEEUYOTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQLhiABNIBCDUyMDlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8"> Apprendre à programmer avec python 3</a> - **Gérard Swinnen**
