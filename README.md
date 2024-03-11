@@ -1,6 +1,7 @@
-![Header](./github-header-image.png)
-
 ![](https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png)
+<hr/>
+
+![Header](./github-header-image.png)
 
 Hi, let me introduce myself, **Sébastien Xia**, a high school student and passionate developer and who loves *solving problems* in Python, all this on <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" height = "13"/>  Visual Studio Code.<hr/>
 
