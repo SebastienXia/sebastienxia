@@ -22,8 +22,11 @@ Currently, I am deepening my knowledge of the Python programming language and in
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<hr/>
-
 ## 📜⭐ Certifications
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png" height =125 /> 
+<p> VERY SOON : A2 English for Developers</p>
+
+<hr/>
 
 To find out more, do not hesitate to **visit my portfolio** <a href ="https://sebastienxia.me/"> here</a>
