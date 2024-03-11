@@ -1,4 +1,5 @@
 ![](https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png)
+
 <hr/>
 
 ![Header](./github-header-image.png)
@@ -21,7 +22,8 @@ Currently, I am deepening my knowledge of the Python programming language and in
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-
 <hr/>
+
+## 📜⭐ Certifications
 
 To find out more, do not hesitate to **visit my portfolio** <a href ="https://sebastienxia.me/"> here</a>
