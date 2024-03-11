@@ -23,7 +23,7 @@ Currently, I am deepening my knowledge of the Python programming language and in
 
 ## 📜⭐ Certifications
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png" height =125 /> <img align = "right" height="200" src="https://avatars.githubusercontent.com/u/103777734?s=200&v=4"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png" height = 125 /> <img align = "right" height= 200 src="https://avatars.githubusercontent.com/u/103777734?s=200&v=4"/>
 <p> VERY SOON : A2 English for Developers</p>
 
 <hr/>
