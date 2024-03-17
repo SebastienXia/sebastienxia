@@ -4,7 +4,7 @@
 
 Hi, let me introduce myself, **Sébastien Xia**, a high school student and passionate developer and who loves *solving problems* in Python, all this on <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" height = "13"/>  Visual Studio Code.
 
-Currently, I am deepening my knowledge of the Python programming language and in addition I am learning the compiled language C because I liked donut rotating <a href = "https://www.a1k0n.net/2011/07/20/donut-math.html">donut rotating in C</a>
+> Currently, I am deepening my knowledge of the Python programming language and in addition I am learning the compiled language C because I liked donut rotating <a href = "https://www.a1k0n.net/2011/07/20/donut-math.html">donut rotating in C</a>
 
 ![MYOCTOCAT](./my_octocat.png)
 
@@ -25,7 +25,7 @@ Currently, I am deepening my knowledge of the Python programming language and in
 
 ## 📜⭐ Certifications
 
-<p>Nothing here for now... come back later :)</p>
+> <p>Nothing here for now... come back later :)</p>
 <img align = "right" height= 175 src="https://avatars.githubusercontent.com/u/103777734?s=200&v=4"/>
 
 <hr/>
