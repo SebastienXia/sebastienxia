@@ -25,6 +25,8 @@ Hi, let me introduce myself, **Sébastien Xia**, a high school student and passi
 
 ## 📜⭐ Certifications
 
+<a href = "https://www.freecodecamp.org/learn/">freeCodeCamp</a>
+
 > <p>Nothing here for now... come back later :)</p>
 <img align = "right" height= 175 src="https://avatars.githubusercontent.com/u/103777734?s=200&v=4"/>
 
