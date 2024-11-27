@@ -1,5 +1,7 @@
 ## Hi there 👋
 <p>I am currently training for a <mark>Web Design for Everybody Specialization: Basics of Web Development & Coding</mark> on  <a href="https://www.coursera.org/">Coursera</a>.</p>
+
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="LogoVisualSudioCode"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="LogoPython"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="LogoHTML"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="LogoCSS"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="LogoGIT"/>
 <!--
 **SebastienXia/sebastienxia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
