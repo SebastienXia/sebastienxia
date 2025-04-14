@@ -3,6 +3,7 @@
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="LogoVisualSudioCode"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="LogoPython"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="LogoHTML"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="LogoCSS"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="LogoGIT"/>
 
+<a href="https://www.notion.so/Note-Android-development-1ae316591ae980bc9640f6d99c92decd?pvs=4">NOTION : Note Android development ACCES</a>
 <!--
 **SebastienXia/sebastienxia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
