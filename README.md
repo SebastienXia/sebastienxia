@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://i.pinimg.com/originals/52/31/0c/52310cd89ed5d8cb41eead3eb9777f79.gif" alt="" width = 1000 height = 500>
+<img src="https://i.pinimg.com/originals/52/31/0c/52310cd89ed5d8cb41eead3eb9777f79.gif" alt="totoro" width = 1000 height = 500>
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="LogoVisualSudioCode"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="LogoPython"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="LogoHTML"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="LogoCSS"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="LogoGIT"/>
 
